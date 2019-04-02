@@ -10,3 +10,6 @@ Started Working on Freecodecamp Tribute Page challenge via Codepen.io
 Here's the link [https://codepen.io/Lufarius/pen/qvOENz]
 
 ### R1D1
+Scrapped the old HTML code from the other day and started a new to line up what was needed in the Challenge via Tribute Page Challenge.
+
+Link--[https://codepen.io/Lufarius/pen/qvOENz]
