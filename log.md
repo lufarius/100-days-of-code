@@ -17,3 +17,12 @@
 
 **Link to work:** 
 [https://codepen.io/Lufarius/pen/qvOENz]
+
+### Day 2: April, 2019
+
+**Today's Progress:** Second Official day of messing around with HTML. Tested some simplistic CSS colors to see what would look good. Got them from [https://flatuicolors.com/], officially done with the Freecodecamp Tribute Page tasks. 
+
+**Thoughts:** Still missing some ideas for how to go about making this look more professional but I guess that comes in time. 
+
+**Link to work:** 
+[https://codepen.io/Lufarius/pen/qvOENz]
