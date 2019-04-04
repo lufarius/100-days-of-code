@@ -34,3 +34,11 @@
 **Thoughts:** A level 20 coder told me he usually only uses <div> in his writings, rarely uses id's. Interesting world. Need to get more pokeballs.
 
 **Link to work:** [https://codepen.io/Lufarius/pen/qwbXQr]
+
+### Day 4: April, 2019
+
+**Today's Progress:** Finished the barebones (HTML) of the Survey Challenge. 
+
+**Thoughts:** It is actually a lot of fun putting your knowledge to work.
+
+**Link to work:** [https://codepen.io/Lufarius/pen/qwbXQr]

@@ -23,3 +23,8 @@ Link--[https://codepen.io/Lufarius/pen/qvOENz]
 Started to work on FreeCodeCamp's Survey Form, messing around with dropdown menus which are suprisingly fun. #level3coder. Need some power leveling. LFP. <3
 
 Link--[https://codepen.io/Lufarius/pen/qwbXQr]
+
+### R1D4
+Wored through the HTML section of Survey Form Challenge for FCC via Codepen.io
+
+Link--[https://codepen.io/Lufarius/pen/qwbXQr]
