@@ -18,3 +18,8 @@ Link--[https://codepen.io/Lufarius/pen/qvOENz]
 Messed around with CSS colors and margin settings, looking to have more of a professional look for the tribute page in the future. As for now, it's starting to come together nicely. 
 
 Link--[https://codepen.io/Lufarius/pen/qvOENz]
+
+### R1D3
+Started to work on FreeCodeCamp's Survey Form, messing around with dropdown menus which are suprisingly fun. #level3coder. Need some power leveling. LFP. <3
+
+Link--[https://codepen.io/Lufarius/pen/qwbXQr]

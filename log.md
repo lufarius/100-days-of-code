@@ -26,3 +26,11 @@
 
 **Link to work:** 
 [https://codepen.io/Lufarius/pen/qvOENz]
+
+### Day 3: April, 2019
+
+**Today's Progress:** Got through probably 1/4 of the survey challenge on Myfreecodecamp via codepen.io. Messing around with dropdown menus and Row Tabs.
+
+**Thoughts:** A level 20 coder told me he usually only uses <div> in his writings, rarely uses id's. Interesting world. Need to get more pokeballs.
+
+**Link to work:** [https://codepen.io/Lufarius/pen/qwbXQr]
