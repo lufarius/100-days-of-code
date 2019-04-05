@@ -28,3 +28,8 @@ Link--[https://codepen.io/Lufarius/pen/qwbXQr]
 Wored through the HTML section of Survey Form Challenge for FCC via Codepen.io
 
 Link--[https://codepen.io/Lufarius/pen/qwbXQr]
+
+### R1D5
+Started the CSS in the survey challenge, still needs a lot of tweaking, will come back to it...
+
+Link--[https://codepen.io/Lufarius/pen/qwbXQr]

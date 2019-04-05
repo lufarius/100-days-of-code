@@ -42,3 +42,11 @@
 **Thoughts:** It is actually a lot of fun putting your knowledge to work.
 
 **Link to work:** [https://codepen.io/Lufarius/pen/qwbXQr]
+
+### Day 5: April, 2019
+
+**Today's Progress:** Started the CSS on the Survey Form, still needs tweaking...
+
+**Thoughts:** So much to learn, so much to learn... 
+
+**Link to work:** [https://codepen.io/Lufarius/pen/qwbXQr]
