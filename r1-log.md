@@ -33,3 +33,8 @@ Link--[https://codepen.io/Lufarius/pen/qwbXQr]
 Started the CSS in the survey challenge, still needs a lot of tweaking, will come back to it...
 
 Link--[https://codepen.io/Lufarius/pen/qwbXQr]
+
+### R1D6
+Started to make a Personal Portfolio and Tested some HTML/CSS stuff through the application Brackets, I like how it fills alot of the tags and endings for you. 
+
+Link--No link today.

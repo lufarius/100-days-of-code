@@ -50,3 +50,11 @@
 **Thoughts:** So much to learn, so much to learn... 
 
 **Link to work:** [https://codepen.io/Lufarius/pen/qwbXQr]
+
+### Day 6: April, 2019
+
+**Today's Progress:** Started on making the Personal Portfolio via Brackets.
+
+**Thoughts:** Hard to code with little time.
+
+**Link to work:** Nada
