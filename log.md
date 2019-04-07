@@ -58,3 +58,11 @@
 **Thoughts:** Hard to code with little time.
 
 **Link to work:** Nada
+
+### Day 7: April, 2019
+
+**Today's Progress:** Codepen Reworks
+
+**Thoughts:** Others coders don't know coding like I do, smug fooking ego. 
+
+**Link to work:** Nada

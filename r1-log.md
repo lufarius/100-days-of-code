@@ -38,3 +38,8 @@ Link--[https://codepen.io/Lufarius/pen/qwbXQr]
 Started to make a Personal Portfolio and Tested some HTML/CSS stuff through the application Brackets, I like how it fills alot of the tags and endings for you. 
 
 Link--No link today.
+
+### R1D7
+Looked at alot of codepens today to see how other coders apply themselves with HTML and CSS. copy, expand, repeat. observe, interpret, report.
+
+Link--No link today.
