@@ -43,3 +43,8 @@ Link--No link today.
 Looked at alot of codepens today to see how other coders apply themselves with HTML and CSS. copy, expand, repeat. observe, interpret, report.
 
 Link--No link today.
+
+### R1D8
+Repetition is thy name, coding is thy game. Worked on FCC's Product landing page. 
+
+[https://codepen.io/Lufarius/pen/ywMBOe]

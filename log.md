@@ -66,3 +66,11 @@
 **Thoughts:** Others coders don't know coding like I do, smug fooking ego. 
 
 **Link to work:** Nada
+
+### Day 8: April, 2019
+
+**Today's Progress:** Continued to work on Survey for FCC's Challenge. 
+
+**Thoughts:** Reptition is key to success
+
+**Link to work:** [https://codepen.io/Lufarius/pen/ywMBOe]
