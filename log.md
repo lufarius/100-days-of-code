@@ -74,3 +74,9 @@
 **Thoughts:** Reptition is key to success
 
 **Link to work:** [https://codepen.io/Lufarius/pen/ywMBOe]
+
+**Today's Progress:** Making the world a better place by coding.
+
+**Thoughts:** fun stuffs.
+
+**Link to work:** nada
