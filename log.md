@@ -75,8 +75,18 @@
 
 **Link to work:** [https://codepen.io/Lufarius/pen/ywMBOe]
 
+### Day 9: April, 2019
+
 **Today's Progress:** Making the world a better place by coding.
 
 **Thoughts:** fun stuffs.
+
+**Link to work:** nada
+
+### Day 10: April, 2019
+
+**Today's Progress:** Stepped through more building a landing page with HTML and CSS. 
+
+**Thoughts:** It's awesome to see some power behind what CSS can do for a website. Used Oto255.com 
 
 **Link to work:** nada

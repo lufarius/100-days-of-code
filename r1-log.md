@@ -47,8 +47,13 @@ Link--No link today.
 ### R1D8
 Repetition is thy name, coding is thy game. Worked on FCC's Product landing page. 
 
-[https://codepen.io/Lufarius/pen/ywMBOe]
+Link--[https://codepen.io/Lufarius/pen/ywMBOe]
 
 ### R1D9
 Already on day 9, where has the time gone?
+
+### R1D10
+Learning alot from messing around with CSS stuff. FlatUicolors.com mixed with Oto255.com is quite the combo wombo. Divs galore. 
+
+Link--No Link Today
 
