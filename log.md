@@ -90,3 +90,11 @@
 **Thoughts:** It's awesome to see some power behind what CSS can do for a website. Used Oto255.com 
 
 **Link to work:** nada
+
+### Day 11: April, 2019
+
+**Today's Progress:** The product landing page is still trying to land, I don't know how to make it LAND! OH GAWD! 
+
+**Thoughts:** Maybe these flashlights can help guide it to safety...
+
+**Link to work:** nada

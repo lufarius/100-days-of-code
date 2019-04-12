@@ -57,3 +57,7 @@ Learning alot from messing around with CSS stuff. FlatUicolors.com mixed with Ot
 
 Link--No Link Today
 
+### R1D11
+Why does freecodecamp use a lot of ID's in there Projects when people usually use Class? I guess I'll figure this out later, Continued to work on Product Landing Page.
+
+Link--No Link Today
