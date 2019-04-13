@@ -98,3 +98,11 @@
 **Thoughts:** Maybe these flashlights can help guide it to safety...
 
 **Link to work:** nada
+
+### Day 12: April 13, 2019
+
+**Today's Progress:** Just messing around more with HTML and CSS, Missed a day because I was in a hurry for work. 
+
+**Thoughts:** Uber sucks for this challenge
+
+**Link to work:** nada

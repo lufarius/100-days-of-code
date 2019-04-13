@@ -61,3 +61,8 @@ Link--No Link Today
 Why does freecodecamp use a lot of ID's in there Projects when people usually use Class? I guess I'll figure this out later, Continued to work on Product Landing Page.
 
 Link--No Link Today
+
+### R1D12
+Uber sucks for this challenge, missed a day due to work. HTML and CSS progress. 
+
+Link--No Link Today
