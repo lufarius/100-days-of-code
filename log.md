@@ -106,3 +106,11 @@
 **Thoughts:** Uber sucks for this challenge
 
 **Link to work:** nada
+
+### Day 13: April 14, 2019
+
+**Today's Progress:** An hour a day goes a long way for the code to stay.... hopefully in my brain. 
+
+**Thoughts:** Keep swimming
+
+**Link to work:** nada

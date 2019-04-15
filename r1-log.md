@@ -66,3 +66,8 @@ Link--No Link Today
 Uber sucks for this challenge, missed a day due to work. HTML and CSS progress. 
 
 Link--No Link Today
+
+### R1D13
+Using that 10% compound rule, it'll go a long way in time.
+
+Link--No Link Today
