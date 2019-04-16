@@ -114,3 +114,11 @@
 **Thoughts:** Keep swimming
 
 **Link to work:** nada
+
+### Day 14: April 15, 2019
+
+**Today's Progress:** Tried to incorporate pictures and button animations in a landing page using transform with CSS. 
+
+**Thoughts:** It's only been a couple of weeks and already starting to see some good progress. 10% rule is good for almost anything.
+
+**Link to work:** nada

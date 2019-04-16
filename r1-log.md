@@ -71,3 +71,8 @@ Link--No Link Today
 Using that 10% compound rule, it'll go a long way in time.
 
 Link--No Link Today
+
+### R1D14
+Tried to incorporate pictures and button animations in a landing page using transform with CSS. 
+
+Link--No Link Today
