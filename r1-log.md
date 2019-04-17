@@ -76,3 +76,8 @@ Link--No Link Today
 Tried to incorporate pictures and button animations in a landing page using transform with CSS. 
 
 Link--No Link Today
+
+### R1D15
+Landing Page is starting to look perty good today. HTML/CSS
+
+Link--No Link Today

@@ -122,3 +122,11 @@
 **Thoughts:** It's only been a couple of weeks and already starting to see some good progress. 10% rule is good for almost anything.
 
 **Link to work:** nada
+
+### Day 15: April 16, 2019
+
+**Today's Progress:** Landing page is still slowly coming together. 
+
+**Thoughts:** Might need to code a little longer to grasp more of the concept.
+
+**Link to work:** nada
