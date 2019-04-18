@@ -130,3 +130,11 @@
 **Thoughts:** Might need to code a little longer to grasp more of the concept.
 
 **Link to work:** nada
+
+### Day 16: April 17, 2019
+
+**Today's Progress:** Added a cities section with other icons to the landing page. 
+
+**Thoughts:** gotta use the compounding effect for reference
+
+**Link to work:** nada

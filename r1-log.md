@@ -81,3 +81,8 @@ Link--No Link Today
 Landing Page is starting to look perty good today. HTML/CSS
 
 Link--No Link Today
+
+### R1D16
+Added a cities section to the landing page.
+
+Link--No Link Today
