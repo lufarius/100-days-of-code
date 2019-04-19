@@ -91,3 +91,8 @@ Link--No Link Today
 Started on FCC's Techincal Documentation Page challenge.
 
 Link--No Link Today
+
+### R1D18
+Continued on FCC's Techincal Documentation Page challenge.
+
+Link--No Link Today

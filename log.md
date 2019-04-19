@@ -146,3 +146,11 @@
 **Thoughts:** an Hour just aint enough sometimes.
 
 **Link to work:** nada
+
+### Day 18: April 19, 2019
+
+**Today's Progress:** Continued Techincal Documentation Page for FCC's challenge
+
+**Thoughts:** poof
+
+**Link to work:** nada
