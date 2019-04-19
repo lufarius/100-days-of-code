@@ -86,3 +86,8 @@ Link--No Link Today
 Added a cities section to the landing page.
 
 Link--No Link Today
+
+### R1D17
+Started on FCC's Techincal Documentation Page challenge.
+
+Link--No Link Today

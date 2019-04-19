@@ -138,3 +138,11 @@
 **Thoughts:** gotta use the compounding effect for reference
 
 **Link to work:** nada
+
+### Day 17: April 18, 2019
+
+**Today's Progress:** Started on Technical Documentation Page for FCC's challenge
+
+**Thoughts:** an Hour just aint enough sometimes.
+
+**Link to work:** nada
